@@ -1,1 +1,1 @@
-# landedpage
+# landedpages
